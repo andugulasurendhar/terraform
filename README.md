@@ -1,4 +1,6 @@
-Terraform
+**Terraform**
+<br>Ref: https://youtu.be/zoBeyv3Asl0?si=-nUyTA2T85KBw8Y_
+
 <br><b>Main commands</b>:
  <br> init:          Prepare your working directory for other commands
  <br> validate:      Check whether the configuration is valid
